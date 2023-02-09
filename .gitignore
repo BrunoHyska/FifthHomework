@@ -1,0 +1,19 @@
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+.DS_Store
+
+### PyCharm ###
+_pycache_/
+*.py[cod]
+### Virtualenv ###
+
+ENV
+venv
+
+bin/
+lib/
+pyvenv.cfg
